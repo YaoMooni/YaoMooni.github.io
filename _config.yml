@@ -78,6 +78,7 @@ kramdown:
 
 
 # disqus settings:
+markdown: kramdown
 disqus:
   shortname: lancecai
 
